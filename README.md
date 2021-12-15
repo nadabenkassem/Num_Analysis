@@ -1,4 +1,4 @@
-> Ce répertoire contient les différents TP d'Analyse numériques  accompagné chaqu'un par quelques remarques et analyses dans le contenu des fichiers.
+> Ce répertoire contient les différents TPs d'Analyse numériques  accompagné chaqu'un par quelques remarques et analyses dans le contenu des fichiers.
 # NUM_ANALYSIS
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
