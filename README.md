@@ -1,5 +1,9 @@
-> Ce répertoire contient les différents TPs d'Analyse numériques  accompagné chaqu'un par quelques remarques et analyses dans le contenu des fichiers.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nadabenkassem/Num_Analysis/main)
+
+
+
+> Ce répertoire contient les différents TPs d'Analyse numériques  accompagné chaqu'un par quelques remarques et analyses dans le contenu des fichiers.
+
 # NUM_ANALYSIS
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
