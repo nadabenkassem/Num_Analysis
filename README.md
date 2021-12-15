@@ -22,9 +22,9 @@
 
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
-[TP1]: https://github.com/nadabenkassem/Num_Analysis/blob/main/TP1_Nada.ipynb
-[TP2]: https://github.com/nadabenkassem/Num_Analysis/blob/main/TP2_E.ipynb
-[TP3]: https://github.com/nadabenkassem/Num_Analysis/blob/main/TP3.ipynb
+[TP1]: https://github.com/nadabenkassem/Num_Analysis/blob/main/TP1/TP1_Nada.ipynb
+[TP2]: https://github.com/nadabenkassem/Num_Analysis/blob/main/TP2/TP2_Nada.ipynb
+[TP3]: https://github.com/nadabenkassem/Num_Analysis/blob/main/TP3/TP3.ipynb
 
 
 
